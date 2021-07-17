@@ -4,7 +4,7 @@ Professionally, I focus on testing, test architecture, and anything related to a
 In my spare time, I like to work on open source projects, familiarize myself with interesting technologies and improve my knowledge about software testing.
 
 ## Current long-term projects
-- Learning and trying to master Go.
+- [Learning and trying to master Go.](https://github.com/ChristoWolf?tab=repositories&q=&type=&language=go&sort=)
 - Modernization by containerization.
 
 ## Programming languages
