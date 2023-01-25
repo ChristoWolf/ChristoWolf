@@ -1,5 +1,5 @@
 ## Hello!
-My name is Christo, and I'm a software test architect located in Innsbruck, Austria.
+My name is Christo, and I'm an advanced software test architect located in Tyrol, Austria.
 Professionally, I focus on testing, test architecture, and anything related to automation like test automation and DevOps.
 In my spare time, I like to work on open source projects, familiarize myself with interesting technologies and improve my knowledge about software testing.
 
