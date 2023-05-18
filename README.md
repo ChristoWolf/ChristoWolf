@@ -1,4 +1,4 @@
-## Hello
+## Hello 👋
 
 My name is Christoph, but you can call me Christo!
 
