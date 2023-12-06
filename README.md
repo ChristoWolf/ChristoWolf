@@ -7,11 +7,6 @@ Professionally, I focus on testing, test architecture, and anything related to a
 
 In my spare time, I like to work on open source projects, familiarize myself with interesting technologies and improve my knowledge about software testing.
 
-## Upcoming events
-
-I will be presenting a talk at [this year's AutomationSTAR conference](https://automation.eurostarsoftwaretesting.com/)!
-You can find information about the talk [here](https://automation.eurostarsoftwaretesting.com/event/2023/unit-testing-for-test-automation-engineers/).
-
 ## Programming languages
 
 Ordered alphabetically. Mark-up, data-format and query languages are excluded.
